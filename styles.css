@@ -62,7 +62,7 @@
     height: 40vh;
     background-image: linear-gradient(to right bottom, rgb(0, 0, 0), rgba(70, 70, 70, 0.103) ),url("forest.jpg");
     background-size:contain;
-
+    box-shadow: rgba(6, 32, 31, 0.25) 0px 54px 55px, rgba(9, 70, 67, 0.12) 0px -12px 30px, rgba(1, 38, 39, 0.233) 0px 4px 6px, rgba(26, 73, 37, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 h2{
