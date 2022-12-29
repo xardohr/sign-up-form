@@ -1,0 +1,17 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;  /* = 10px */
+	color:#fff;
+}
+
+body{
+    font-family: 'Rubik', sans-serif;
+    background-image: url("forest.jpg");
+	background-size: cover;
+}
+
